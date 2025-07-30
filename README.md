@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farazshoukat
-- 👀 I’m interested in becoming software engineer and ai ml engineer
-- 🌱 I’m currently learning
+- 👀 I’m a software engineer and ai ml engineer
+- 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me : here's my mail address farazshoukat1@gmail.com
 
