@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Faraz%20Shoukat&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20LangChain%20%26%20RAG&descAlignY=55&descSize=16&v=2" width="100%"/>
+<h1>Faraz Shoukat</h1>
+<p><i>AI/ML Engineer | Full Stack Developer | LangChain & RAG</i></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+AI+that+ships%2C+not+demos;RAG+Pipelines+%26+LLM+Agents;LangChain+%2B+N8N+%2B+FastAPI+%2B+Next.js;Co-Founder+%40+Flowcraft;Open+to+AI%2FML+%26+Full+Stack+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -131,8 +132,4 @@ class Faraz:
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="center"><sub>Thanks for stopping by 👋</sub></p>
