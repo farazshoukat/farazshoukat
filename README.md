@@ -132,4 +132,4 @@ class Faraz:
 
 </div>
 
-<p align="center"><sub>Thanks for stopping by 👋</sub></p>
+<p align="center"><sub>my goal</sub></p>
