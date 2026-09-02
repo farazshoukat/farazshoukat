@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Faraz Shoukat</h1>
-<p><i>AI/ML Engineer | Full Stack Developer | LangChain & RAG</i></p>
+<p><i>AI/ML Engineer | Full Stack Developer  | LangChain & RAG</i></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+AI+that+ships%2C+not+demos;RAG+Pipelines+%26+LLM+Agents;LangChain+%2B+N8N+%2B+FastAPI+%2B+Next.js;Co-Founder+%40+Flowcraft;Open+to+AI%2FML+%26+Full+Stack+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
